@@ -18,13 +18,13 @@
 
 
 ## 💻 DevTech  
-Language : Python, AWS, Spark, Django
+Language : Python, AWS, Spark, Django ,SQL
 
-skill : crawling . .
+skill : DataProcessing, Crawling, DataMining, EDA, crontab
 
 web : Django(ver 2.2.7)  
 
-Dataset : 교통데이터
+Dataset : 날씨 데이터,교통량 데이터, 서울 교통사고 상세데이터
 
 
 
